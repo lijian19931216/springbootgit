@@ -6,6 +6,7 @@ package com.luying.springbootgit;
  * @create: 2018-07-28
  **/
 public class Test {
+	//eclipse 第一次提交
     //idea 第一次提交
     //idea 第二次提交
 }
