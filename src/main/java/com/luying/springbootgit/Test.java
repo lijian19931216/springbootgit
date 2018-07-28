@@ -8,5 +8,5 @@ package com.luying.springbootgit;
 public class Test {
 	//eclipse 第一次提交
 	//idea 第一次提交
-	//idea 第一次提交
+	
 }
