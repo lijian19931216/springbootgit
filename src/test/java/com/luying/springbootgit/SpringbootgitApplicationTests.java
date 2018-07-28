@@ -1,4 +1,4 @@
-package com.example.springbootgit;
+package com.luying.springbootgit;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
