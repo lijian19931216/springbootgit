@@ -6,4 +6,5 @@ package com.luying.springbootgit;
  * @create: 2018-07-28
  **/
 public class Test {
+    //idea 第一次提交
 }
